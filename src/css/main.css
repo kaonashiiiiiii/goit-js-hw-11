@@ -35,10 +35,9 @@
   }
   
   .photo-card {
-    height: 240px;
-    width: 350px;
+    height: 260px;
+    width: 370px;
     border-radius: 1em;
-    box-shadow: 0 10px 20px #dbdbdb;
   }
   
   .info {
@@ -48,22 +47,22 @@
     justify-content: space-between;
     font-size: 10px;
     padding: 0 1.5em;
-    color: rgb(93, 74, 74);
+    color: rgb(0, 0, 0);
   }
   
   input {
-    border-radius: 1em;
+    border-radius: 5em;
     width: 33%;
     appearance: none;
     border: none;
     outline: none;
     padding-left: 15px;
-    color: #313030;
-    background: linear-gradient(to right, #b9baba, #404041);
+    color: #482828;
+    background: black;
   }
   
   input::placeholder {
-    color: #313030;
+    color: #ffffff;
   }
   
   .search-form {
@@ -81,5 +80,5 @@
     height: 40px;
     padding: 1px 16px;
     margin-right: 40px;
-    background-color: #686969;
+    background-color: #000000;
   }
